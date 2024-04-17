@@ -6,7 +6,7 @@ on:
   push:
     branches: [main]
 
-Mygit:
+jobs:
   build:
     runs-on: window-latest
     steps:
